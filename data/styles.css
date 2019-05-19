@@ -76,6 +76,8 @@
 }
 .table_cell {
 }
+.menu_item {
+}
 ._连接线 {
 }
 .icon {
@@ -119,6 +121,10 @@
   text-align:left;
 }
 .droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
   color:#000000;
   text-align:left;
 }
