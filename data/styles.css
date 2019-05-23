@@ -115,7 +115,24 @@
 }
 .box_11 {
 }
+.paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
+.image2 {
+  color:#000000;
+}
 .button {
+}
+._形状1 {
 }
 .tree_node {
   text-align:left;
@@ -146,4 +163,7 @@
 }
 ._图片1 {
   color:#000000;
+}
+._文本段落1 {
+  text-align:left;
 }
